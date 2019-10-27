@@ -8,7 +8,9 @@
   },
   "keywords": [
     "puppeteer",
+    "commonjs",
     "mocha",
+    "chai",
     "boilerplate",
     "example"
   ],
