@@ -1,9 +1,9 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-assert/issues"
   },
-  "description": "Puppeteer end-to-end test automation boilerplate. Using Using Commonjs, Mocha and Assert.",
+  "description": "Puppeteer end-to-end test automation boilerplate. using Commonjs, Mocha and Assert.",
   "devDependencies": {
     "chai": "4.2.0",
     "eslint": "6.8.0",
@@ -26,12 +26,7 @@
   },
   "keywords": [
     "assert",
-    "boilerplate",
     "commonjs",
-    "e2e",
-    "e2e tests",
-    "example",
-    "integration test",
     "mocha",
     "puppeteer"
   ],
