@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/puppeteer-commonjs-mocha-assert](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-assert/workflows/puppeteer-commonjs-mocha-assert/badge.svg)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-assert/actions?workflow=puppeteer-commonjs-mocha-assert)
+[![GitHub Actions status | e2e-boilerplate/puppeteer-commonjs-mocha-assert](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-assert/workflows/puppeteer-commonjs-mocha-assert/badge.svg)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-assert/actions?workflow=puppeteer-commonjs-mocha-assert) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Puppeteer Boilerplate
 
